@@ -10,8 +10,8 @@ User will be able to add random creatures all around or remove them. The most po
 
 Ali Atli
 
-Yigit Bediskan
+Yigit Bediskan - 21302473
 
-Ahmet Ensar
+Ahmet Ensar 
 
-Duha Celik
+Muhammed Duha Celik - 21400794
