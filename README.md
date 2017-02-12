@@ -12,6 +12,6 @@ Ali Atli
 
 Yigit Bediskan - 21302473
 
-Ahmet Ensar 
+Ahmet Ensar - 21401484
 
 Muhammed Duha Celik - 21400794
